@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islam-sharmin&label=Profile%20views&color=0e75b6&style=flat" alt="islam-sharmin" /> </p>
 
-<p align="left"> <a href="https://twitter.com/samiul_1998" target="blank"><img src="https://img.shields.io/twitter/follow/samiul_1998?logo=twitter&style=for-the-badge" alt="samiul_1998" /></a> </p>
 
 - 🔭 I’m currently working on **Web Programming**
 
